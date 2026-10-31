@@ -21,150 +21,24 @@
   "lng": 73.7302944437
  },
  "categories": [
-  "Combos",
   "Pav Bhaji",
   "Indian Starters",
+  "Paneer Main Course",
+  "Veg Main Course",
   "Chinese Starters",
   "Soups",
   "Pizza",
-  "Paneer Main Course",
-  "Veg Main Course",
-  "Dal",
   "Breads · Tandoor",
+  "Dal",
   "Rice & Biryani",
   "Chinese Rice & Noodles",
   "Chinese Gravy",
+  "Combos",
   "Salads & Raita",
   "Hot Beverages",
   "Cold Drinks"
  ],
  "items": [
-  {
-   "id": "single-idli-single-vada-sada-dosa",
-   "category": "Combos",
-   "name": "Single Idli + Single Vada + Sada Dosa",
-   "price": 260,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "1-onion-upma-1-tea",
-   "category": "Combos",
-   "name": "1 Onion Upma + 1 Tea",
-   "price": 210,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "idli-1-piece-with-medu-vada-1-piece-and-1-masala-dosa",
-   "category": "Combos",
-   "name": "Idli [1 Piece] With Medu Vada [1 Piece] And 1 Masala Dosa",
-   "price": 235,
-   "description": "[Combo Item]",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "medu-vada-with-idli-and-plain-dosa",
-   "category": "Combos",
-   "name": "Medu Vada With Idli And Plain Dosa",
-   "price": 260,
-   "description": "[Combo Item]",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "idli-2-pieces-with-1-plain-uttapam",
-   "category": "Combos",
-   "name": "Idli [2 Pieces] With 1 Plain Uttapam",
-   "price": 260,
-   "description": "[Combo Item]",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "dal-makhani-jeera-rice",
-   "category": "Combos",
-   "name": "Dal Makhani + Jeera Rice",
-   "price": 260,
-   "description": "An all-time loved combo of decadently creamy and buttery dal makhani; served along with rice and salad.",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "1-big-idli-1-medu-vada-mini-cheese-mysore-masala-dosa",
-   "category": "Combos",
-   "name": "1 Big Idli + 1 Medu Vada + Mini Cheese Mysore Masala Dosa",
-   "price": 260,
-   "description": "[Combo Item]",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "dal-khichdi-with-papad",
-   "category": "Combos",
-   "name": "Dal Khichdi With Papad",
-   "price": 215,
-   "description": "A delightfully homely combo of delectable dal khichdi, served along with crispy papad.",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "paneer-butter-masala-with-roti-and-rice-serves-1",
-   "category": "Combos",
-   "name": "Paneer Butter Masala With Roti And Rice [Serves 1]",
-   "price": 255,
-   "description": "[Combo Item] A Delectable Combo that Includes Paneer Butter Masala+Roti+Rice",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-fried-rice-veg-manchurian",
-   "category": "Combos",
-   "name": "Veg Fried Rice + Veg Manchurian",
-   "price": 300,
-   "description": "An all-time favorite combo of veg fried rice made with lots of veggies; served along with tasty Manchurian.",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-hakka-noodles-veg-manchurian",
-   "category": "Combos",
-   "name": "Veg Hakka Noodles + Veg Manchurian",
-   "price": 300,
-   "description": "An all-time favorite combo of veg Hakka noodles; served along with lipsmacking Manchurian.",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-biryani-gravy-combo",
-   "category": "Combos",
-   "name": "Veg Biryani Gravy Combo",
-   "price": 300,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-handi-with-2-roti-and-rice",
-   "category": "Combos",
-   "name": "Veg Handi With 2 Roti And Rice",
-   "price": 300,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "chana-masala-roti-rice",
-   "category": "Combos",
-   "name": "Chana Masala + Roti + Rice",
-   "price": 300,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
   {
    "id": "jain-pav-bhaji",
    "category": "Pav Bhaji",
@@ -341,249 +215,6 @@
    "category": "Indian Starters",
    "name": "Cheese Cherry Pineapple",
    "price": 260,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "paneer-hot-pan",
-   "category": "Chinese Starters",
-   "name": "Paneer Hot Pan",
-   "price": 390,
-   "description": "",
-   "image": "/menu/paneer-hot-pan.webp",
-   "jain": false
-  },
-  {
-   "id": "gobi-manchurian",
-   "category": "Chinese Starters",
-   "name": "Gobi Manchurian",
-   "price": 325,
-   "description": "Deep-fried, crispy cauliflower florets tossed in a thick and spicy Manchurian gravy.",
-   "image": "/menu/gobi-manchurian.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-manchurian",
-   "category": "Chinese Starters",
-   "name": "Veg Manchurian",
-   "price": 325,
-   "description": "Deep-fried, assorted veggies tossed in a thik and spicy Manchurian sauce.",
-   "image": "/menu/veg-manchurian.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-crispy-serves-1-750-grams",
-   "category": "Chinese Starters",
-   "name": "Veg Crispy [Serves 1, 750 grams]",
-   "price": 350,
-   "description": "",
-   "image": "/menu/veg-crispy-serves-1-750-grams.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-spring-roll",
-   "category": "Chinese Starters",
-   "name": "Veg Spring Roll",
-   "price": 350,
-   "description": "Deep-fried, stuffed rolls packed with seasoned assorted veggies.",
-   "image": "/menu/veg-spring-roll.webp",
-   "jain": false
-  },
-  {
-   "id": "paneer-65",
-   "category": "Chinese Starters",
-   "name": "Paneer 65",
-   "price": 365,
-   "description": "Deliciously crispy thin and long dosa smothered with butter; served with sambhar and chutney - a typical South Indian breakfast.",
-   "image": "/menu/paneer-65.webp",
-   "jain": false
-  },
-  {
-   "id": "paneer-crispy",
-   "category": "Chinese Starters",
-   "name": "Paneer Crispy",
-   "price": 375,
-   "description": "Crispy, flavorful, and bursting with authentic Chinese flavors, this veggie delight showcases the perfect combination of paneer's irresistible texture and tantalizing seasonings.",
-   "image": "/menu/paneer-crispy.webp",
-   "jain": false
-  },
-  {
-   "id": "paneer-chilli",
-   "category": "Chinese Starters",
-   "name": "Paneer Chilli",
-   "price": 350,
-   "description": "A delightfully flavorful dish prepared with soft paneer and slow cooked cooked with flavorful chili sauce and other masalas.",
-   "image": "/menu/paneer-chilli.webp",
-   "jain": false
-  },
-  {
-   "id": "mushroom-chilly",
-   "category": "Chinese Starters",
-   "name": "Mushroom Chilly",
-   "price": 350,
-   "description": "",
-   "image": "/menu/mushroom-chilly.webp",
-   "jain": false
-  },
-  {
-   "id": "chinese-bhel",
-   "category": "Chinese Starters",
-   "name": "Chinese Bhel",
-   "price": 340,
-   "description": "A Chinese twist on the classic Indian treat with crispy bhel, onions, coriander leaves tossed in a spicy sauce.",
-   "image": "/menu/chinese-bhel.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-hot-pan",
-   "category": "Chinese Starters",
-   "name": "Veg Hot Pan",
-   "price": 365,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-65",
-   "category": "Chinese Starters",
-   "name": "Veg 65",
-   "price": 350,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "mangolian-paneer",
-   "category": "Chinese Starters",
-   "name": "Mangolian Paneer",
-   "price": 390,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "paneer-manchurian",
-   "category": "Chinese Starters",
-   "name": "Paneer Manchurian",
-   "price": 350,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "mushroom-65",
-   "category": "Chinese Starters",
-   "name": "Mushroom 65",
-   "price": 365,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "baby-corn-chilly",
-   "category": "Chinese Starters",
-   "name": "Baby Corn Chilly",
-   "price": 350,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "cream-of-tomato-soup",
-   "category": "Soups",
-   "name": "Cream Of Tomato Soup",
-   "price": 170,
-   "description": "Indulge in a velvety and comforting blend of tomatoes that will warm your soul and tantalize your taste buds.",
-   "image": "/menu/cream-of-tomato-soup.webp",
-   "jain": false
-  },
-  {
-   "id": "cream-of-mushroom-soup",
-   "category": "Soups",
-   "name": "Cream Of Mushroom Soup",
-   "price": 180,
-   "description": "",
-   "image": "/menu/cream-of-mushroom-soup.webp",
-   "jain": false
-  },
-  {
-   "id": "peppery-lemon-coriandar-soup",
-   "category": "Soups",
-   "name": "Peppery Lemon Coriandar Soup",
-   "price": 210,
-   "description": "",
-   "image": "/menu/peppery-lemon-coriandar-soup.webp",
-   "jain": false
-  },
-  {
-   "id": "sweet-corn-veg-soup",
-   "category": "Soups",
-   "name": "Sweet Corn Veg Soup",
-   "price": 180,
-   "description": "",
-   "image": "/menu/sweet-corn-veg-soup.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-hot-n-sour-soup",
-   "category": "Soups",
-   "name": "Veg Hot N Sour Soup",
-   "price": 195,
-   "description": "",
-   "image": "/menu/veg-hot-n-sour-soup.webp",
-   "jain": false
-  },
-  {
-   "id": "veg-manchow-soup-serves-1-400-ml",
-   "category": "Soups",
-   "name": "Veg Manchow Soup [Serves 1, 400 ml]",
-   "price": 195,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "lasooni-palak-soup",
-   "category": "Soups",
-   "name": "Lasooni Palak Soup",
-   "price": 195,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "veg-pizza-8-inches",
-   "category": "Pizza",
-   "name": "Veg Pizza [8 inches]",
-   "price": 310,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "jain-pizza-8-inches",
-   "category": "Pizza",
-   "name": "Jain Pizza [8 inches]",
-   "price": 325,
-   "description": "",
-   "image": null,
-   "jain": true
-  },
-  {
-   "id": "paneer-pizza-8-inches",
-   "category": "Pizza",
-   "name": "Paneer Pizza [8 inches]",
-   "price": 325,
-   "description": "",
-   "image": null,
-   "jain": false
-  },
-  {
-   "id": "onion-capsicum-pizza",
-   "category": "Pizza",
-   "name": "Onion Capsicum Pizza",
-   "price": 285,
    "description": "",
    "image": null,
    "jain": false
@@ -1183,21 +814,246 @@
    "jain": false
   },
   {
-   "id": "dal-tadka",
-   "category": "Dal",
-   "name": "Dal Tadka",
-   "price": 260,
-   "description": "A scrumptious and aromatic Indian delight bursting with flavors.",
-   "image": "/menu/dal-tadka.webp",
+   "id": "paneer-hot-pan",
+   "category": "Chinese Starters",
+   "name": "Paneer Hot Pan",
+   "price": 390,
+   "description": "",
+   "image": "/menu/paneer-hot-pan.webp",
    "jain": false
   },
   {
-   "id": "dal-fry",
-   "category": "Dal",
-   "name": "Dal Fry",
-   "price": 235,
-   "description": "A comforting and delicious preparation made with mixed daal cooked and tempered with onions, chillies and more in pure ghee.",
-   "image": "/menu/dal-fry.webp",
+   "id": "gobi-manchurian",
+   "category": "Chinese Starters",
+   "name": "Gobi Manchurian",
+   "price": 325,
+   "description": "Deep-fried, crispy cauliflower florets tossed in a thick and spicy Manchurian gravy.",
+   "image": "/menu/gobi-manchurian.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-manchurian",
+   "category": "Chinese Starters",
+   "name": "Veg Manchurian",
+   "price": 325,
+   "description": "Deep-fried, assorted veggies tossed in a thik and spicy Manchurian sauce.",
+   "image": "/menu/veg-manchurian.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-crispy-serves-1-750-grams",
+   "category": "Chinese Starters",
+   "name": "Veg Crispy [Serves 1, 750 grams]",
+   "price": 350,
+   "description": "",
+   "image": "/menu/veg-crispy-serves-1-750-grams.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-spring-roll",
+   "category": "Chinese Starters",
+   "name": "Veg Spring Roll",
+   "price": 350,
+   "description": "Deep-fried, stuffed rolls packed with seasoned assorted veggies.",
+   "image": "/menu/veg-spring-roll.webp",
+   "jain": false
+  },
+  {
+   "id": "paneer-65",
+   "category": "Chinese Starters",
+   "name": "Paneer 65",
+   "price": 365,
+   "description": "Deliciously crispy thin and long dosa smothered with butter; served with sambhar and chutney - a typical South Indian breakfast.",
+   "image": "/menu/paneer-65.webp",
+   "jain": false
+  },
+  {
+   "id": "paneer-crispy",
+   "category": "Chinese Starters",
+   "name": "Paneer Crispy",
+   "price": 375,
+   "description": "Crispy, flavorful, and bursting with authentic Chinese flavors, this veggie delight showcases the perfect combination of paneer's irresistible texture and tantalizing seasonings.",
+   "image": "/menu/paneer-crispy.webp",
+   "jain": false
+  },
+  {
+   "id": "paneer-chilli",
+   "category": "Chinese Starters",
+   "name": "Paneer Chilli",
+   "price": 350,
+   "description": "A delightfully flavorful dish prepared with soft paneer and slow cooked cooked with flavorful chili sauce and other masalas.",
+   "image": "/menu/paneer-chilli.webp",
+   "jain": false
+  },
+  {
+   "id": "mushroom-chilly",
+   "category": "Chinese Starters",
+   "name": "Mushroom Chilly",
+   "price": 350,
+   "description": "",
+   "image": "/menu/mushroom-chilly.webp",
+   "jain": false
+  },
+  {
+   "id": "chinese-bhel",
+   "category": "Chinese Starters",
+   "name": "Chinese Bhel",
+   "price": 340,
+   "description": "A Chinese twist on the classic Indian treat with crispy bhel, onions, coriander leaves tossed in a spicy sauce.",
+   "image": "/menu/chinese-bhel.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-hot-pan",
+   "category": "Chinese Starters",
+   "name": "Veg Hot Pan",
+   "price": 365,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-65",
+   "category": "Chinese Starters",
+   "name": "Veg 65",
+   "price": 350,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "mangolian-paneer",
+   "category": "Chinese Starters",
+   "name": "Mangolian Paneer",
+   "price": 390,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "paneer-manchurian",
+   "category": "Chinese Starters",
+   "name": "Paneer Manchurian",
+   "price": 350,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "mushroom-65",
+   "category": "Chinese Starters",
+   "name": "Mushroom 65",
+   "price": 365,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "baby-corn-chilly",
+   "category": "Chinese Starters",
+   "name": "Baby Corn Chilly",
+   "price": 350,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "cream-of-tomato-soup",
+   "category": "Soups",
+   "name": "Cream Of Tomato Soup",
+   "price": 170,
+   "description": "Indulge in a velvety and comforting blend of tomatoes that will warm your soul and tantalize your taste buds.",
+   "image": "/menu/cream-of-tomato-soup.webp",
+   "jain": false
+  },
+  {
+   "id": "cream-of-mushroom-soup",
+   "category": "Soups",
+   "name": "Cream Of Mushroom Soup",
+   "price": 180,
+   "description": "",
+   "image": "/menu/cream-of-mushroom-soup.webp",
+   "jain": false
+  },
+  {
+   "id": "peppery-lemon-coriandar-soup",
+   "category": "Soups",
+   "name": "Peppery Lemon Coriandar Soup",
+   "price": 210,
+   "description": "",
+   "image": "/menu/peppery-lemon-coriandar-soup.webp",
+   "jain": false
+  },
+  {
+   "id": "sweet-corn-veg-soup",
+   "category": "Soups",
+   "name": "Sweet Corn Veg Soup",
+   "price": 180,
+   "description": "",
+   "image": "/menu/sweet-corn-veg-soup.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-hot-n-sour-soup",
+   "category": "Soups",
+   "name": "Veg Hot N Sour Soup",
+   "price": 195,
+   "description": "",
+   "image": "/menu/veg-hot-n-sour-soup.webp",
+   "jain": false
+  },
+  {
+   "id": "veg-manchow-soup-serves-1-400-ml",
+   "category": "Soups",
+   "name": "Veg Manchow Soup [Serves 1, 400 ml]",
+   "price": 195,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "lasooni-palak-soup",
+   "category": "Soups",
+   "name": "Lasooni Palak Soup",
+   "price": 195,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-pizza-8-inches",
+   "category": "Pizza",
+   "name": "Veg Pizza [8 inches]",
+   "price": 310,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "jain-pizza-8-inches",
+   "category": "Pizza",
+   "name": "Jain Pizza [8 inches]",
+   "price": 325,
+   "description": "",
+   "image": null,
+   "jain": true
+  },
+  {
+   "id": "paneer-pizza-8-inches",
+   "category": "Pizza",
+   "name": "Paneer Pizza [8 inches]",
+   "price": 325,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "onion-capsicum-pizza",
+   "category": "Pizza",
+   "name": "Onion Capsicum Pizza",
+   "price": 285,
+   "description": "",
+   "image": null,
    "jain": false
   },
   {
@@ -1315,6 +1171,24 @@
    "price": 155,
    "description": "",
    "image": null,
+   "jain": false
+  },
+  {
+   "id": "dal-tadka",
+   "category": "Dal",
+   "name": "Dal Tadka",
+   "price": 260,
+   "description": "A scrumptious and aromatic Indian delight bursting with flavors.",
+   "image": "/menu/dal-tadka.webp",
+   "jain": false
+  },
+  {
+   "id": "dal-fry",
+   "category": "Dal",
+   "name": "Dal Fry",
+   "price": 235,
+   "description": "A comforting and delicious preparation made with mixed daal cooked and tempered with onions, chillies and more in pure ghee.",
+   "image": "/menu/dal-fry.webp",
    "jain": false
   },
   {
@@ -1610,6 +1484,132 @@
    "category": "Chinese Gravy",
    "name": "Schezwan Sauce (mushroom)",
    "price": 340,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "single-idli-single-vada-sada-dosa",
+   "category": "Combos",
+   "name": "Single Idli + Single Vada + Sada Dosa",
+   "price": 260,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "1-onion-upma-1-tea",
+   "category": "Combos",
+   "name": "1 Onion Upma + 1 Tea",
+   "price": 210,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "idli-1-piece-with-medu-vada-1-piece-and-1-masala-dosa",
+   "category": "Combos",
+   "name": "Idli [1 Piece] With Medu Vada [1 Piece] And 1 Masala Dosa",
+   "price": 235,
+   "description": "[Combo Item]",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "medu-vada-with-idli-and-plain-dosa",
+   "category": "Combos",
+   "name": "Medu Vada With Idli And Plain Dosa",
+   "price": 260,
+   "description": "[Combo Item]",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "idli-2-pieces-with-1-plain-uttapam",
+   "category": "Combos",
+   "name": "Idli [2 Pieces] With 1 Plain Uttapam",
+   "price": 260,
+   "description": "[Combo Item]",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "dal-makhani-jeera-rice",
+   "category": "Combos",
+   "name": "Dal Makhani + Jeera Rice",
+   "price": 260,
+   "description": "An all-time loved combo of decadently creamy and buttery dal makhani; served along with rice and salad.",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "1-big-idli-1-medu-vada-mini-cheese-mysore-masala-dosa",
+   "category": "Combos",
+   "name": "1 Big Idli + 1 Medu Vada + Mini Cheese Mysore Masala Dosa",
+   "price": 260,
+   "description": "[Combo Item]",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "dal-khichdi-with-papad",
+   "category": "Combos",
+   "name": "Dal Khichdi With Papad",
+   "price": 215,
+   "description": "A delightfully homely combo of delectable dal khichdi, served along with crispy papad.",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "paneer-butter-masala-with-roti-and-rice-serves-1",
+   "category": "Combos",
+   "name": "Paneer Butter Masala With Roti And Rice [Serves 1]",
+   "price": 255,
+   "description": "[Combo Item] A Delectable Combo that Includes Paneer Butter Masala+Roti+Rice",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-fried-rice-veg-manchurian",
+   "category": "Combos",
+   "name": "Veg Fried Rice + Veg Manchurian",
+   "price": 300,
+   "description": "An all-time favorite combo of veg fried rice made with lots of veggies; served along with tasty Manchurian.",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-hakka-noodles-veg-manchurian",
+   "category": "Combos",
+   "name": "Veg Hakka Noodles + Veg Manchurian",
+   "price": 300,
+   "description": "An all-time favorite combo of veg Hakka noodles; served along with lipsmacking Manchurian.",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-biryani-gravy-combo",
+   "category": "Combos",
+   "name": "Veg Biryani Gravy Combo",
+   "price": 300,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "veg-handi-with-2-roti-and-rice",
+   "category": "Combos",
+   "name": "Veg Handi With 2 Roti And Rice",
+   "price": 300,
+   "description": "",
+   "image": null,
+   "jain": false
+  },
+  {
+   "id": "chana-masala-roti-rice",
+   "category": "Combos",
+   "name": "Chana Masala + Roti + Rice",
+   "price": 300,
    "description": "",
    "image": null,
    "jain": false

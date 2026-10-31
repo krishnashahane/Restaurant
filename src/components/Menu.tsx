@@ -192,7 +192,7 @@ export default function Menu({
         <div aria-hidden="true" className="pointer-events-none absolute right-6 top-1/2 hidden -translate-y-1/2 grid-cols-2 gap-3 lg:grid xl:right-[max(1.5rem,calc((100vw-72rem)/2))]">
           {["/menu/cheese-pav-bhaji.webp", "/menu/paneer-tikka.webp", "/menu/kaju-paneer-biryani.webp", "/menu/malai-kofta.webp"].map((src, i) => (
             <div key={src} className={`relative h-36 w-36 overflow-hidden rounded-3xl shadow-2xl ring-4 ring-white/10 ${i % 2 ? "translate-y-6" : "-translate-y-2"} ${i === 0 ? "-rotate-3" : i === 3 ? "rotate-3" : ""}`}>
-              <Image src={src} alt="" fill sizes="144px" className="object-cover" priority={i < 2} />
+              <Image src={src} alt="" fill sizes="144px" className="object-cover" priority />
             </div>
           ))}
         </div>
