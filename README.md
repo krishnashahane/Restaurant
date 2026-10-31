@@ -2,6 +2,8 @@
 
 Live site: **https://krishnaveg.vercel.app** · Admin: **https://krishnaveg.vercel.app/admin**
 
+<img src="public/qr.png" alt="Scan to open krishnaveg.vercel.app" width="180">
+
 - 190 dishes in 16 categories, with prices and 102 photos taken from the restaurant's Zomato "Order Online" menu (`src/data/menu.json`, `public/menu/`).
 - Customers browse, search, filter Jain dishes, add to cart and order for dine-in (table no.), takeaway or delivery. Payment is at the counter or on delivery.
 - Customers can track their order live at `/order/<id>`.
